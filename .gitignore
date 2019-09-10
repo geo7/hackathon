@@ -9,3 +9,4 @@ data/**/*.json
 data/**/*.pdf
 data/**/*.xlsx
 
+ignoreme_*
